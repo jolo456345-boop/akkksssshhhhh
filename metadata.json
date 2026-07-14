@@ -1,0 +1,6 @@
+{
+  "name": "Task Manager",
+  "description": "A minimalist, beautifully designed task manager integrated with an intuitive Pomodoro and Stopwatch timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
